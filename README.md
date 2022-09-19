@@ -13,7 +13,7 @@
 
 📉 I have experience in Data Cleaning and Wrangling, Data Visualization, Data Analysis, Dashboard Design and Developmen, data warehouse, Azure data factory, ETL.
 
-📫 How to find me: LinkedIn
+📫 How to find me: [LinkedIn](https://www.linkedin.com/in/godwill-nelson-ukaegbu/).
 
  
 ## 💡Skills💡:
