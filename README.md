@@ -1,4 +1,4 @@
-Hello, folks!  I’m Nelson
+## Hello, folks! I’m Nelson
  
 
 ✨ About Me in 30 secs✨
@@ -16,7 +16,7 @@ Hello, folks!  I’m Nelson
 📫 How to find me: LinkedIn
 
  
-💡Skills💡:
+## 💡Skills💡:
 
 Microsoft SQL Server
 Tableau
@@ -26,7 +26,7 @@ Python
 Azure
  
 
-📚Courses and Certifications📚
+## 📚Courses and Certifications📚
 
 •	Microsoft Certified Solutions Associate (MCSA)- Microsoft SQL Server  2012/2014
 •	Microsoft Certified: Power BI Data Analyst Associate
