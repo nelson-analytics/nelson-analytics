@@ -14,20 +14,26 @@
 
  
 ## 💡Skills💡:
+- Microsoft SQL Server
+- Tableau
+- Microsoft Excel
+- Power BI
+- Python
+- Azure
 
-Microsoft SQL Server
-Tableau
-Microsoft Excel
-Power BI
-Python
-Azure
+
+
+
+
+
+
  
 
 ## 📚Courses and Certifications📚
 
-•	Microsoft Certified Solutions Associate (MCSA)- Microsoft SQL Server  2012/2014
-•	Microsoft Certified: Power BI Data Analyst Associate
-•	Certified IBM Data Science Professional
+-	Microsoft Certified Solutions Associate (MCSA)- Microsoft SQL Server  2012/2014
+-	Microsoft Certified: Power BI Data Analyst Associate
+-	Certified IBM Data Science Professional
 
  
 
