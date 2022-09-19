@@ -1,5 +1,4 @@
 ## Hello, folks! I’m Nelson
- 
 
 ✨ About Me in 30 secs✨
 
@@ -8,8 +7,6 @@
 💉 I have a strong software engineering background and I transitioned into Data Analytics since 2015.
 
 📊 I obtained PgDip in Data Science & Business Analyticse in June 2015
-
-🌱 I self-taught SQL and Tableau
 
 📉 I have experience in Data Cleaning and Wrangling, Data Visualization, Data Analysis, Dashboard Design and Developmen, data warehouse, Azure data factory, ETL.
 
