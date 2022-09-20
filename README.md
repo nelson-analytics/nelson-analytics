@@ -1,4 +1,5 @@
 ## Hello, folks! I’m Nelson
+### “Torture the data, and it will confess to anything.” – By Ronald Coase
 
 ✨ About Me in 30 secs✨
 
@@ -8,7 +9,7 @@
 
 📊 I obtained PgDip in Data Science & Business Analyticse in June 2015
 
-📉 I have experience in Data Cleaning and Wrangling, Data Visualization, Data Analysis, Dashboard Design and Developmen, data warehouse, Azure data factory, ETL.
+📉 I have industry experience in Data Cleaning and Wrangling, Data Visualization, Data Analysis, Dashboard Design and Development, data warehouse, Azure data factory, ETL and python programming.
 
 📫 How to find me: [LinkedIn](https://www.linkedin.com/in/godwill-nelson-ukaegbu/).
 
