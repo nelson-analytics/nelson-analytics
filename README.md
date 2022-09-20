@@ -3,7 +3,7 @@
 
 ✨ About Me in 30 secs✨
 
-👀 I love telling stories with data and that's what I do for a living.
+👀 I love telling stories with data and that's what I do for a living.And my goal to any oranization is to turn data into information, and information into insight.
 
 💉 I have a strong software engineering background and I transitioned into Data Analytics since 2015.
 
