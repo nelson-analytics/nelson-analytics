@@ -9,18 +9,19 @@
 
 📊 I obtained PgDip in Data Science & Business Analyticse in June 2015
 
-📉 I have industry experience in Data Cleaning and Wrangling, Data Visualization, Data Analysis, Dashboard Design and Development, data warehouse, Azure data factory, ETL and python programming.
+📉 I have industry experience in SQL, Data Cleaning and Wrangling, Data Visualization, Data Analysis, Dashboard Design and Development, data warehouse, Azure data factory, ETL and python programming.
 
 📫 How to find me: [LinkedIn](https://www.linkedin.com/in/godwill-nelson-ukaegbu/).
 
  
 ## 💡Skills💡:
+- SQL
 - Microsoft SQL Server
 - Tableau
 - Microsoft Excel
 - Power BI
 - Python
-- Azure
+- Azure Data Factory
 
 
 
