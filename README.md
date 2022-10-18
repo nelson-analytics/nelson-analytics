@@ -22,7 +22,8 @@
 - Power BI
 - Python
 - Azure Data Factory
-- AWS S3
+- AWS 
+- PySpark
 
 
 ## 📚Courses and Certifications📚
