@@ -24,6 +24,9 @@
 - Azure Data Factory
 - AWS 
 - PySpark
+- Azure Synapse Analytics
+- Databricks
+- Data Warehouse
 
 
 ## 📚Courses and Certifications📚
