@@ -24,6 +24,8 @@
 - Azure Data Factory
 - AWS 
 - PySpark
+- Snowflake
+- PostgreSQL
 - Azure Synapse Analytics
 - Databricks
 - Data Warehouse
