@@ -1,4 +1,9 @@
-## Hello, folks! I’m Nelson
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=29B5E8&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Nelson!;Cloud+Data+Engineer+%7C+Analytics+Consultant;Cloud+%26+AI+Enthusiast;Turning+Data+into+Actionable+Insights" alt="Typing SVG" />
+  </a>
+</h1>
 ### “Torture the data, and it will confess to anything.” – By Ronald Coase
 
 ✨ About Me in 30 secs✨
