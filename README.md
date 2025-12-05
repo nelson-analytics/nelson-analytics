@@ -15,7 +15,7 @@
 
 📊 I obtained PgDip in Data Science & Business Analyticse in June 2015
 
-📉 I am very excited about using cutting-edge data egineering technologies to unlock the potential of data in any business environment. I have industry experience in SQL, Data Cleaning and Wrangling, Data Visualization, Data Analysis, Dashboard Design and Development, data warehouse, Azure data factory, AWS S3, ETL and python programming.
+📉 I am very excited about using cutting-edge data egineering technologies to unlock the potential of data in any business environment. I have industry experience in SQL, Data Cleaning and Wrangling, Data Visualization, Data Analysis, Dashboard Design and Development, data warehouse, Snowflake, Azure data factory, AWS S3, ETL and python programming.
 
 📫 How to find me: [LinkedIn](https://www.linkedin.com/in/godwill-nelson-ukaegbu/).
 
